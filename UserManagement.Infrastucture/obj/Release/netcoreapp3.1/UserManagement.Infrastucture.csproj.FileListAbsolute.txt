@@ -1,0 +1,16 @@
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\bin\Release\netcoreapp3.1\UserManagement.Infrastucture.deps.json
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\bin\Release\netcoreapp3.1\UserManagement.Infrastucture.runtimeconfig.json
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\bin\Release\netcoreapp3.1\UserManagement.Infrastucture.runtimeconfig.dev.json
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\bin\Release\netcoreapp3.1\UserManagement.Infrastucture.dll
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\bin\Release\netcoreapp3.1\UserManagement.Infrastucture.pdb
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\bin\Release\netcoreapp3.1\UserManagement.Core.dll
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\bin\Release\netcoreapp3.1\UserManagement.Core.pdb
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\obj\Release\netcoreapp3.1\UserManagement.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\obj\Release\netcoreapp3.1\UserManagement.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\obj\Release\netcoreapp3.1\UserManagement.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\obj\Release\netcoreapp3.1\UserManagement.Infrastucture.AssemblyInfo.cs
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\obj\Release\netcoreapp3.1\UserManagement.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\obj\Release\netcoreapp3.1\UserManagement.Infrastucture.csproj.CopyComplete
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\obj\Release\netcoreapp3.1\UserManagement.Infrastucture.dll
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\obj\Release\netcoreapp3.1\UserManagement.Infrastucture.pdb
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Infrastucture\obj\Release\netcoreapp3.1\UserManagement.Infrastucture.genruntimeconfig.cache

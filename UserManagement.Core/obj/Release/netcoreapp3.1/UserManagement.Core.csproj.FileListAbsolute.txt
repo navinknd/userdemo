@@ -1,0 +1,13 @@
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\bin\Release\netcoreapp3.1\UserManagement.Core.deps.json
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\bin\Release\netcoreapp3.1\UserManagement.Core.runtimeconfig.json
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\bin\Release\netcoreapp3.1\UserManagement.Core.runtimeconfig.dev.json
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\bin\Release\netcoreapp3.1\UserManagement.Core.dll
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\bin\Release\netcoreapp3.1\UserManagement.Core.pdb
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\obj\Release\netcoreapp3.1\UserManagement.Core.csproj.AssemblyReference.cache
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\obj\Release\netcoreapp3.1\UserManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\obj\Release\netcoreapp3.1\UserManagement.Core.AssemblyInfoInputs.cache
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\obj\Release\netcoreapp3.1\UserManagement.Core.AssemblyInfo.cs
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\obj\Release\netcoreapp3.1\UserManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\obj\Release\netcoreapp3.1\UserManagement.Core.dll
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\obj\Release\netcoreapp3.1\UserManagement.Core.pdb
+C:\Users\navinkumar.d\source\repos\UserManagement\UserManagement.Core\obj\Release\netcoreapp3.1\UserManagement.Core.genruntimeconfig.cache
